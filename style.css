@@ -7,17 +7,17 @@ padding: 18px 0;
 }
 
 .cabecalho-imagem {
-   width: 30%;
+   width: 50%;
 }
 
 .cabecalho-lista-item {
     display: inline-block;
     margin: 0 19px;
-    padding: 25px 0;
+    padding: 18px 0;
     font-size: 26px;
 }
 
 * {
     margin: 0;
-    padding: 25px;
+    padding:0;
 }
